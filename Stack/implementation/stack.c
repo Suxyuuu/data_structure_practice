@@ -1,4 +1,4 @@
-// 构造一个栈
+// 构造一个栈(使用数组实现)
 
 #include <stdio.h>
 #include <windows.h>
