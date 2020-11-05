@@ -6,7 +6,7 @@
 #define N 100
 
 void getarray(int a[], int *len);  // 获取数据
-void bubblesort(int a[], int len); // 插入排序
+void bubblesort(int a[], int len); // 冒泡排序
 void printarray(int a[], int len); // 打印数组
 
 int main(void)
